@@ -28,7 +28,9 @@ Give a star ⭐ to show your support 😊
 
 [WinBox](https://github.com/nextapps-de/winbox)
 
-[!WinBox](https://github.com/nextapps-de/winbox/blob/master/demo/winbox.png)
+## Winbox Screenshot
+
+![WinBox](https://github.com/nextapps-de/winbox/blob/master/demo/winbox.png)
 
 ---
 
