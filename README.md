@@ -34,4 +34,4 @@ Give a star ⭐ to show your support 😊
 
 ## Screenshot
 
-![Portfolio](https://github.com/mrdanishsaleem/portfolio/blob/main/public/mrdanishsaleem.png)
+![Portfolio](https://github.com/mrdanishsaleem/terminalpage/blob/main/images/terminalpage.png)
