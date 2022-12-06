@@ -1,11 +1,5 @@
 # Welcome to my Terminal Style Website
 
-> Note: This is a Terminal Style Website, feel free to use it. And star it if you liked 😊
-
-## Author
-
-## 😊 Danish Saleem
-
 <div align="left">
 
 <p><a href="https://mrdanishsaleem.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio @Danish Saleem" align="center" /></a></p>
